@@ -1,1 +1,4 @@
-  [1m[36mActor Load (0.2ms)[0m  [1mSELECT "actors".* FROM "actors"[0m
+
+
+Started GET "/assets/rails.png" for 110.54.165.152 at 2022-12-20 13:33:57 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
