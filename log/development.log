@@ -1,0 +1,1 @@
+  [1m[36mActor Load (0.2ms)[0m  [1mSELECT "actors".* FROM "actors"[0m
